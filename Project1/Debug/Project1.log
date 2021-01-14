@@ -1,0 +1,11 @@
+﻿  proyecto.cpp
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\minwindef.h(130): warning C4005: 'APIENTRY': redefinición de macro
+  c:\users\user\desktop\semestre 8\computacion grafica\lab\p1\project1\project1\include\glfw3.h(98): note: vea la definición anterior de 'APIENTRY'
+c:\users\user\desktop\semestre 8\computacion grafica\lab\p1\project1\project1\proyecto.cpp(342): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\user\desktop\semestre 8\computacion grafica\lab\p1\project1\project1\proyecto.cpp(374): warning C4305: '+=': truncamiento de 'double' a 'float'
+c:\users\user\desktop\semestre 8\computacion grafica\lab\p1\project1\project1\proyecto.cpp(375): warning C4305: '+=': truncamiento de 'double' a 'float'
+c:\users\user\desktop\semestre 8\computacion grafica\lab\p1\project1\project1\proyecto.cpp(380): warning C4305: '=': truncamiento de 'double' a 'float'
+c:\users\user\desktop\semestre 8\computacion grafica\lab\p1\project1\project1\proyecto.cpp(1593): warning C4305: '=': truncamiento de 'double' a 'ALfloat'
+c:\users\user\desktop\semestre 8\computacion grafica\lab\p1\project1\project1\proyecto.cpp(1904): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\user\desktop\semestre 8\computacion grafica\lab\p1\project1\project1\proyecto.cpp(1911): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+  Project1.vcxproj -> C:\Users\user\Desktop\SEMESTRE 8\Computacion Grafica\LAB\P1\Project1\Debug\Project1.exe
